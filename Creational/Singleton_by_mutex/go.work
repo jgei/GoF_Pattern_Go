@@ -1,0 +1,6 @@
+go 1.20
+
+use (
+	./app
+	./singleton_by_mutex_lib
+)
